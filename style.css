@@ -1,0 +1,29 @@
+/*
+Changing properties for the th tags - table headings
+Changing the font size to large
+*/
+th {
+    font-size: xx-large;
+    background-color: rgb(211, 245, 245);
+    color:rgb(8, 54, 56);
+}
+
+/*
+Changing properties for the rest of the table elements
+using the td tags selector
+*/
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 700;
+}
+
+/*
+Changing properties for the table 
+Changing border orientation - single border
+*/
+table {
+    border-collapse:collapse;
+    border-color: rgb(8, 54, 56);
+    border-width: medium;
+}
